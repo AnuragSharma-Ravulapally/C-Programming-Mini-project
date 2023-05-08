@@ -91,3 +91,6 @@ int main() {
 
     return 0;
 }
+int dummy(){
+    return 1;
+}
